@@ -53,14 +53,6 @@ Since then I pushed **3442**+ commits, opened **229**+ issues, submitted **544**
 
   <br />
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sushilrajeeva&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=sushilrajeev&show_icons=true&locale=en&layout=compact" alt="sushilrajeev" />
-</details>
-
-<details>
-  <summary><b>☄️ Github Streaks</b></summary>
-
-  <br />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=iampavangandhi&hide_border=true" />
 </details>
 
 
