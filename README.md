@@ -16,7 +16,7 @@ Feel free to connect with me [@sushilrajeeva](https://github.com/sushilrajeeva/)
 
 Joined Github **4** years ago.
 
-Since then I pushed **858**+ commits, opened **8**+ issues, submitted **52**+ pull requests, and contributed to **2**+ public repositories.
+Since then I pushed **860**+ commits, opened **8**+ issues, submitted **52**+ pull requests, and contributed to **2**+ public repositories.
 
 ### My Values
 
@@ -61,6 +61,7 @@ Since then I pushed **858**+ commits, opened **8**+ issues, submitted **52**+ pu
 
   <br />
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sushilrajeeva&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sushilrajeeva&hide=TeX&layout=compact"/>
 </details>
 
 
