@@ -4,7 +4,8 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://x.com/SushilRajeev)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/sushilrajeev/)
 
-### Glad to see you here! 
+### Glad to see you here!
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sushilrajeeva&label=Profile%20views&color=0e75b6&style=flat" alt="sushilrajeeva" /> </p> 
 
 I'm a **Software Engineer** with a **Master's in Computer Science** from **Stevens Institute of Technology** and a **Bachelor's in Computer Science and Engineering** from **Visvesvaraya Technological University (VTU).** I am passionate about **AI, Cloud, Full Stack Development, and building scalable software solutions.** 
 
@@ -16,7 +17,7 @@ Feel free to connect with me [@sushilrajeeva](https://github.com/sushilrajeeva/)
 
 Joined Github **4** years ago.
 
-Since then I pushed **860**+ commits, opened **8**+ issues, submitted **52**+ pull requests, and contributed to **2**+ public repositories.
+Since then I pushed **862**+ commits, opened **8**+ issues, submitted **52**+ pull requests, and contributed to **2**+ public repositories.
 
 ### My Values
 
