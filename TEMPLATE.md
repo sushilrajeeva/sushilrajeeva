@@ -6,9 +6,9 @@
 
 ### Glad to see you here! 
 
-I'm a **Software Engineer** passionate about AI, Cloud, Full Stack and developing scalable software solutions.
+I'm a **Software Engineer** with a **Master's in Computer Science** from **Stevens Institute of Technology** and a **Bachelor's in Computer Science and Engineering** from **Visvesvaraya Technological University (VTU).** I am passionate about **AI, Cloud, Full Stack Development, and building scalable software solutions.** 
 
-I have a passion for problem-solving and pioneering first-principle thinking, driven by purpose and fueled by the challenge of finding solutions, with a strong foundation in Python, Java, Javascript, TypeScript, Spring Boot, Angular, React, Django, Nodejs, MongoDB, Nextjs, AWS, etc. I've led diverse tech teams covering Frontend, Backend, Full Stack, Machine Learning and DevOps and building scalable products from scratch with the commitment to making a positive impact through technology.
+I have a passion for problem-solving and pioneering first-principle thinking, driven by purpose and fueled by the challenge of finding solutions. My expertise spans **Python, Java, JavaScript, TypeScript, Spring Boot, Angular, React, Django, Node.js, MongoDB, Next.js, AWS, and more.** I've led diverse tech teams covering **Frontend, Backend, Full Stack, Machine Learning, and DevOps**, building scalable products from scratch with a commitment to making a **positive impact through technology.** 
 
 I'm an explorer of new tech, an avid learner, and a problem-solver at heart. When I'm not in code, you'll find me watching tech-related YouTube videos, fueling my curiosity.
 
@@ -17,6 +17,14 @@ Feel free to connect with me [@sushilrajeeva](https://github.com/sushilrajeeva/)
 Joined Github **{{ ACCOUNT_AGE }}** years ago.
 
 Since then I pushed **{{ COMMITS }}**+ commits, opened **{{ ISSUES }}**+ issues, submitted **{{ PULL_REQUESTS }}**+ pull requests, and contributed to **{{ REPOSITORIES_CONTRIBUTED_TO }}**+ public repositories.
+
+### My Values
+
+👐 **Teamwork** makes everyone stronger
+
+🔑 **Good communication** is essential
+
+♥️ I'm eager to **learn** something new
 
 <hr>
 <h3 align="left">✨ Random Dev Quote::</h3>
