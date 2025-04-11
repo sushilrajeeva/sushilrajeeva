@@ -17,7 +17,7 @@ Feel free to connect with me [@sushilrajeeva](https://github.com/sushilrajeeva/)
 
 Joined Github **4** years ago.
 
-Since then I pushed **1804**+ commits, opened **11**+ issues, submitted **56**+ pull requests, and contributed to **2**+ public repositories.
+Since then I pushed **1808**+ commits, opened **11**+ issues, submitted **56**+ pull requests, and contributed to **2**+ public repositories.
 
 ### My Values
 
