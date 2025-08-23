@@ -15,9 +15,9 @@ I'm an explorer of new tech, an avid learner, and a problem-solver at heart. Whe
 
 Feel free to connect with me [@sushilrajeeva](https://github.com/sushilrajeeva/) for all things tech or just to say hello! Let's shape the future of tech together. 🌟
 
-Joined Github **4** years ago.
+Joined Github **5** years ago.
 
-Since then I pushed **2625**+ commits, opened **24**+ issues, submitted **82**+ pull requests, and contributed to **3**+ public repositories.
+Since then I pushed **2626**+ commits, opened **24**+ issues, submitted **82**+ pull requests, and contributed to **3**+ public repositories.
 
 ### My Values
 
